@@ -9,16 +9,6 @@
 }
 
 :root {
-  --primary-text: white;
-  --primary: rgb(25, 23, 37);
-  --primary-dark-variant: black;
-  --primary-light-variant: rgb(34, 27, 45);
-  --primary-lighter-variant: rgb(80, 85, 89);
-  --primary-lightest-variant: rgb(227, 226, 224);
-  --secondary-text: white;
-  --secondary: rgb(83, 5, 55);
-  --secondary-light-variant: rgb(116, 8, 60);
-  --special: rgb(203, 241, 8);
   --disabled: rgb(203, 203, 205);
   --disabled-text: rgb(66, 66, 80);
   --error: rgb(176, 0, 32);
