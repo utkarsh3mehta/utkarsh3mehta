@@ -1,5 +1,4 @@
-# me
+Developed in Javascript, Typescript, C, C++, Java, Python, VB scripting, PowerShell, Shell scripting, Flutter, React Native, SQL, noSQL
+Worked with Cloud (Azure, DigitalOcean, AWS, GCP)
 
-come [here](https://utkarsh3mehta.github.io/me/) fellow human
-
-get the styles.css file that I use for my projects from [here](https://raw.githubusercontent.com/utkarsh3mehta/utkarsh3mehta/main/styles.css)
+[Resume](http://resume.umehta.xyz/)
