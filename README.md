@@ -1,4 +1,4 @@
-Developed in Javascript, Typescript, C, C++, Java, Python, VB scripting, PowerShell, Shell scripting, Flutter, React Native, SQL, noSQL
+Developer in Javascript, Typescript, C, C++, Java, Python, VB scripting, PowerShell, Shell scripting, Flutter, React Native, SQL, noSQL
 Worked with Cloud (Azure, DigitalOcean, AWS, GCP)
 
 My [resume](http://resume.umehta.xyz/)
