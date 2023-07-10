@@ -5,6 +5,6 @@ Worked with Cloud (Azure, DigitalOcean, AWS, GCP)
 
 My [resume](http://resume.umehta.xyz/)
 
-My v. bad attempt at [design](https://me.umehta.xyz)
+My v. bad attempt at [design](http://me.umehta.xyz)
 
 My under development attempt at [three dimension design](http://yo.umehta.xyz)
