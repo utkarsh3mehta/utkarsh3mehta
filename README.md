@@ -3,7 +3,7 @@ Developer in Javascript, Typescript, C, C++, Java, Python, VB scripting, PowerSh
 Worked with Cloud (Azure, DigitalOcean, AWS, GCP)
 
 
-My [resume](http://resume.umehta.xyz/)
+My [resume](https://utkarsh3mehta.github.io/resume)
 
 My v. bad attempt at [design](http://me.umehta.xyz)
 
